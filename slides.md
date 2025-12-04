@@ -41,7 +41,7 @@ Documentation should be **maintainable**, **modular**, and **source-controlled**
 
 <!-- Slide with background image -->
 ---
-backgroundImage: url('images/bg1.jpg')
+backgroundImage: url('https://raw.githubusercontent.com/23f3001596-star/my-marp-docs/main/images/bg1.jpg')
 backgroundSize: cover
 ---
 
