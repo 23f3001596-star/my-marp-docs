@@ -1,0 +1,14 @@
+section {
+  font-family: "Segoe UI", sans-serif;
+  padding: 40px;
+}
+
+h1 { color: #0b5cff; }
+h2 { color: #083d8c; }
+
+.custom-highlight {
+  background: #eef6ff;
+  border-left: 6px solid #0b5cff;
+  padding: 10px 15px;
+  border-radius: 6px;
+}
