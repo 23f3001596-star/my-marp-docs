@@ -39,9 +39,11 @@ Documentation should be **maintainable**, **modular**, and **source-controlled**
 
 ---
 
-<!-- Background Image -->
-<!-- _backgroundImage: url('images/bg1.jpg') -->
-<!-- _backgroundSize: cover -->
+<!-- Slide with background image -->
+---
+backgroundImage: url('images/bg1.jpg')
+backgroundSize: cover
+---
 
 # System Architecture Overview
 
