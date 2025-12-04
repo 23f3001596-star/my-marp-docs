@@ -40,10 +40,7 @@ Documentation should be **maintainable**, **modular**, and **source-controlled**
 ---
 
 <!-- Slide with background image -->
----
-backgroundImage: url('https://raw.githubusercontent.com/23f3001596-star/my-marp-docs/main/images/bg1.jpg')
-backgroundSize: cover
----
+![bg cover](https://png.pngtree.com/thumb_back/fh260/background/20240919/pngtree-a-background-of-orange-blue-and-yellow-gradients-with-gritty-appearance-image_16233934.jpg)
 
 # System Architecture Overview
 
